@@ -1,0 +1,26 @@
+@media screen and (max-width: 1425px) {
+    .ourworkerBlock {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .content-box-img {
+        float: left;
+        height: 380px;
+        width: 550px;
+        padding-right: 30px;
+        padding-bottom: 40px;
+    }
+}
+
+
+@media screen and (max-width: 530px) {
+    .content-box-img {
+        float: left;
+        height: 300px;
+        width: 510px;
+        padding-right: 30px;
+        padding-bottom: 40px;
+    }
+}
